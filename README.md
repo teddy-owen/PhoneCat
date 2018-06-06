@@ -1,4 +1,10 @@
-# AngularJS Phone Catalog Tutorial Application
+# PhoneCat Clone
+This is my implementation of the AngularJS Tutorial App, PhoneCat (Phone Catalog)
+
+---
+
+## AngularJS Phone Catalog Tutorial Application
+
 
 
 ## Overview
